@@ -1,0 +1,254 @@
+1-
+  COUNT(*)
+----------
+        19
+
+2-
+IDNATIONAL      NOM             PRENOM
+--------------- --------------- ---------------
+187875176180220 Vazquez         Kelly
+168081787313526 Chan            Rogan
+189855180313248 Cobb            Rajah
+269373107343556 Mcfadden        Miriam
+253560892885608 Blair           Ivana
+277233022476216 Guthrie         Lysandra
+234659655572987 Richards        Marcia
+297963325763089 Cameron         Vivian
+207837643641441 Sparks          Chelsea
+230614878878426 Hickman         Maile
+250318284412676 Medina          Kevyn
+
+IDNATIONAL      NOM             PRENOM
+--------------- --------------- ---------------
+204671886210435 Mcintosh        Ella
+283472343488980 Hicks           Paloma
+
+3-
+ETABLISSEMENT
+-------------
+UVSQ
+
+
+4-
+IDNATIONAL      NOM             PRENOM
+--------------- --------------- ---------------
+297963325763089 Cameron         Vivian
+277233022476216 Guthrie         Lysandra
+
+5-
+NOM                                      TELEPHONE  EMAIL                                              TYPE                 VALUE_OCCURRENCE
+---------------------------------------- ---------- -------------------------------------------------- -------------------- ----------------
+Peck                                     0684437541 peck8764@yahoo.com                                 particulier                         9
+
+6
+NOM                                      TELEPHONE  EMAIL                                              TYPE                 VALUE_OCCURRENCE
+---------------------------------------- ---------- -------------------------------------------------- -------------------- ----------------
+Tincidunt Inc.                           0616345675 tinciduntinc5266@icloud.edu                        entreprise                      689.1
+
+7
+AVG(POIDSTOTP)
+--------------
+    4.79966667
+
+8
+NOM                                 TYPE             MARQUE          VALUE_OCCURRENCE
+----------------------------------- ---------------- --------------- ----------------
+gel douche                          hygiene          nivea                        100
+masque en tissu                     hygiene          V&G                           98
+lot de 4 stylos bille               affaire scolaire bic                           98
+
+
+9
+TYPE             NB_FOIS_TYPE
+---------------- ------------
+non frais                1704
+hygiene                  1689
+frais                    1171
+affaire scolaire          217
+mode                      160
+entretien                 149
+
+10
+NOM                                 TYPE
+----------------------------------- ----------------
+riz                                 non frais
+sauce bolognaise                    non frais
+pates                               non frais
+carottes                            frais
+
+
+
+11
+PRODID NOM
+---------- -----------------------------------
+         5 riz
+        11 lot de 3 tablettes de chocolat
+        23 carottes
+         1 sauce tomate
+        17 dentifrice
+        24 lessive
+        13 fromage
+         6 riz
+         7 fromage blanc
+        22 confiture de fraise
+        15 masque en tissu
+
+PRODID NOM
+---------- -----------------------------------
+         2 sauce bolognaise
+        14 chemise
+        19 baguette de pain
+         4 pates
+         8 lait
+         9 gel douche
+        16 gel hydroalcoolique
+        21 banane
+
+12
+stockage restant dans l'entrepot 1 est4493
+
+13
+     ETPID
+----------
+         4
+
+14
+     ETPID
+----------
+         1
+
+15
+IDNATIONAL            BVID NOM             PRENOM          VILLE                REGION          TELEPHONE  EMAIL
+--------------- ---------- --------------- --------------- -------------------- --------------- ---------- -----------------------------------
+134328429843733         30 Shaw            Shad            Versailles           IDF             0621223657 shaw.shad3577@yahoo.edu
+272211935674368          3 Finch           Charity         Versailles           IDF             0647163335 finch.charity@outlook.net
+223123774139211          1 Rollins         Sage            Versailles           IDF             0619556324 r.sage2621@icloud.fr
+
+16
+     ETPID VILLE             POIDSMAX TYPE
+---------- --------------- ---------- --------------------
+         1 Versailles            5650 ambiant
+
+17
+MARQUE          NB_FOIS_TYPE
+--------------- ------------
+carrefour                589
+V&G                      256
+signal                   234
+bic                      132
+lactel                   120
+barilla                  119
+always                   118
+monoprix                 116
+petit navire              96
+president                 84
+nivea                     83
+
+MARQUE          NB_FOIS_TYPE
+--------------- ------------
+bonne maman               77
+milka                     74
+auchan                    68
+kiabi                     58
+ariel                     50
+la roche posay            47
+uncle bens                35
+danone                    29
+
+18
+TO_CHAR VALUE_OCCURRENCE
+------- ----------------
+02-2022                9
+
+19
+    PRODID NOM
+---------- -----------------------------------
+         4 pates
+
+20
+DATEPEREM
+---------
+20-FEB-24
+
+21
+VILLE                     VALUE_OCCURRENCE
+------------------------- ----------------
+Versailles                               9
+Saint Denis                              6
+Paris                                    6
+Choisy Le Roi                            2
+Montreuil                                2
+Saint Cloud                              2
+Asnieres                                 1
+Vaucresson                               1
+Saint Ouen                               1
+Chatou                                   1
+Nogent-sur-Marne                         1
+
+VILLE                     VALUE_OCCURRENCE
+------------------------- ----------------
+Villejuif                                1
+Suresnes                                 1
+Juvisy                                   1
+Sartrouville                             1
+Neuilly-sur-Seine                        1
+Levallois                                1
+Saint-Quentin                            1
+Saint-Cyr                                1
+
+22
+EMAIL
+--------------------------------------------------
+guthrie.lysandra4102@icloud.edu
+ivana-blair@aol.com
+risuslimited@icloud.com
+
+23
+      BVID NOM             PRENOM
+---------- --------------- ---------------
+         4 Vazquez         Ruth
+         3 Finch           Charity
+         7 Church          Calista
+        12 May             Lani
+         3 Finch           Charity
+        23 York            Thane
+         6 Stanton         Aretha
+         7 Church          Calista
+        12 May             Lani
+        11 Acosta          Brielle
+        16 Jones           Bert
+
+      BVID NOM             PRENOM
+---------- --------------- ---------------
+         1 Rollins         Sage
+        15 Flowers         Larissa
+        13 Beasley         Elizabeth
+         2 Gill            Iona
+        10 Mcknight        Yoshi
+         7 Church          Calista
+         2 Gill            Iona
+         5 Sutton          Madeline
+        28 Higgins         David
+        12 May             Lani
+         4 Vazquez         Ruth
+
+      BVID NOM             PRENOM
+---------- --------------- ---------------
+         9 Peck            Athena
+        12 May             Lani
+
+24
+IDNATIONAL            DOID NOM                                      VILLE                                    TELEPHONE  EMAIL                                          TYPE
+--------------- ---------- ---------------------------------------- ---------------------------------------- ---------- -------------------------------------------------- --------------------
+183038247149560          1 Figueroa                                 Issy-les-Moulineaux                      0624733431 figueroa1317@hotmail.net                       particulier
+944171581157715         30 Et Tristique Pellentesque Incorporated   Lanester                                 0678505244 ettristiquepellentesqueincorporated@hotmail.net    entreprise
+183407451418312          4 Bell                                     Forbach                                  0605019574 bell@outlook.edu                               particulier
+166570479572636          5 Peck                                     Reims                                    0684437541 peck8764@yahoo.com                             particulier
+974536115961954         24 Risus Limited                            Ajaccio                                  0628347286 risuslimited@icloud.com                        entreprise
+
+25
+      BVID
+----------
+         2
+         7
+        12

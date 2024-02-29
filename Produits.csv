@@ -1,0 +1,31 @@
+ProdID,Nom,Type,Marque ,Poids,Valeur,tempsconservation
+000001,sauce tomate,non frais,panzani,0.25,0.89,300
+000002,sauce bolognaise,non frais,carrefour,0.5,0.87,300
+000003,pates,non frais,barilla,0.5,0.67,360
+000004,pates,non frais,auchan,1,0.56,360
+000005,riz,non frais,carrefour,1,1.12,720
+000006,riz,non frais,uncle bens,0.5,1.28,720
+000007,fromage blanc,frais,danone,0.15,0.43,15
+000008,lait,non frais,lactel,1,0.93,180
+000009,gel douche,hygiene,nivea,0.25,2.08,720
+000010,lot de 4 stylos bille,affaire scolaire,bic,0.025,1.89,720
+000011,lot de 3 tablettes de chocolat,non frais,milka,0.2,2.31,180
+000012,pommes de terres,non frais,lady patate,1,1.02,180
+000013,fromage,frais,president,0.25,2.48,15
+000014,chemise,mode,kiabi,0.2,12,720
+000015,masque en tissu,hygiene,V&G,0.010,2,720
+000016,gel hydroalcoolique,hygiene,la roche posay,0.1,1.64,720
+000017,dentifrice,hygiene,signal,0.05,1.29,720
+000018,thon,non frais,petit navire,0.250,2.15,360
+000019,baguette de pain,frais,monoprix,0.25,1,12
+000020,serviettes hygieniques,hygiene,always,0.200,3.67,720
+000021,banane,frais,monoprix,1,1.99,7
+000022,confiture de fraise,non frais,bonne maman,0.250,2.3,360
+000023,carottes,frais,carrefour,1,0.56,7
+000024,lessive,entretien,ariel,1.5,3.39,720
+000025,6 oeufs,non frais,loué, 0.2,2,30
+000026,shampoing,hygiene,l'oréal, 0.3,4,720
+000027,raviolis,non frais,panzani,0.25,1.53,720
+000028,livre,affaire scolaire,hachette,0.3,10,720
+000029,viennoiseries,frais,monoprix,0.3,4.99,12
+000030,gel hydroalcoolique,hygiene,merci handy,0.02,2,720
